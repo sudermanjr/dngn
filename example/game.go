@@ -18,7 +18,7 @@ import (
 
 	"github.com/hajimehoshi/ebiten/ebitenutil"
 
-	"github.com/SolarLune/dngn"
+	"github.com/sudermanjr/dngn"
 	"github.com/golang/freetype/truetype"
 	"github.com/hajimehoshi/ebiten"
 )
